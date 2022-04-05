@@ -34,7 +34,7 @@ npm install
 ```
 Android için
 
-Firebase projesi oluşturulmalı ve <b>google-services.json</b> dosyası android/app klasörü altına konulmalıdır. 
+Firebase projesi oluşturulmalı ve <b>google-services.json</b> dosyası android/app klasörü altına konulmalıdır. Projeyi çalıştırmak için:
 ```sh
 react-native run-android
 ```
